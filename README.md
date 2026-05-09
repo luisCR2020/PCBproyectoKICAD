@@ -1,2 +1,2 @@
 # PCBproyectoKICAD
-Battery charger with a MPPT algorithm using a synchronous Buck &amp; Boost Converter
+Solar Battery Charger with a MPPT algorithm Using a Synchronous Buck &amp; Boost Converter
